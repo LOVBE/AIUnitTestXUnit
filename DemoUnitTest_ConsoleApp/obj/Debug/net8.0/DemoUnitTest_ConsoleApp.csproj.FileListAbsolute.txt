@@ -1,0 +1,17 @@
+C:\Users\DANG TRUNG\source\repos\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\bin\Debug\net8.0\DemoUnitTest_ConsoleApp.exe
+C:\Users\DANG TRUNG\source\repos\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\bin\Debug\net8.0\DemoUnitTest_ConsoleApp.deps.json
+C:\Users\DANG TRUNG\source\repos\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\bin\Debug\net8.0\DemoUnitTest_ConsoleApp.runtimeconfig.json
+C:\Users\DANG TRUNG\source\repos\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\bin\Debug\net8.0\DemoUnitTest_ConsoleApp.dll
+C:\Users\DANG TRUNG\source\repos\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\bin\Debug\net8.0\DemoUnitTest_ConsoleApp.pdb
+C:\Users\DANG TRUNG\source\repos\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\DANG TRUNG\source\repos\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\DANG TRUNG\source\repos\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANG TRUNG\source\repos\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\DANG TRUNG\source\repos\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.AssemblyInfo.cs
+C:\Users\DANG TRUNG\source\repos\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\DANG TRUNG\source\repos\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnit.2EAC3C0F.Up2Date
+C:\Users\DANG TRUNG\source\repos\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.dll
+C:\Users\DANG TRUNG\source\repos\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\refint\DemoUnitTest_ConsoleApp.dll
+C:\Users\DANG TRUNG\source\repos\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.pdb
+C:\Users\DANG TRUNG\source\repos\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\DemoUnitTest_ConsoleApp.genruntimeconfig.cache
+C:\Users\DANG TRUNG\source\repos\DemoUnitTest_ConsoleApp\DemoUnitTest_ConsoleApp\obj\Debug\net8.0\ref\DemoUnitTest_ConsoleApp.dll
