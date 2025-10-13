@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{235A5800-9135-499D-9513-325B1743EE5B}|DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj|solutionrelative:demounittest_consoleapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16D2C1CF-2B99-4CA5-B3A7-A0B4F8B0F6CC}|UnitTest\\UnitTest.csproj|c:\\users\\dang trung\\source\\repos\\demounittest_consoleapp\\unittest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16D2C1CF-2B99-4CA5-B3A7-A0B4F8B0F6CC}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{16D2C1CF-2B99-4CA5-B3A7-A0B4F8B0F6CC}|UnitTest\\UnitTest.csproj|c:\\users\\dang trung\\source\\repos\\demounittest_consoleapp\\unittest\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{16D2C1CF-2B99-4CA5-B3A7-A0B4F8B0F6CC}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DANG TRUNG\\source\\repos\\DemoUnitTest_ConsoleApp\\.github\\workflows\\dotnet-tests.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\dotnet-tests.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{235A5800-9135-499D-9513-325B1743EE5B}|DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj|c:\\users\\dang trung\\source\\repos\\demounittest_consoleapp\\demounittest_consoleapp\\demounittest_consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -44,15 +44,27 @@
               "RelativeDocumentMoniker": "UnitTest\\UnitTest_Generated.cs",
               "ToolTip": "C:\\Users\\DANG TRUNG\\source\\repos\\DemoUnitTest_ConsoleApp\\UnitTest\\UnitTest_Generated.cs",
               "RelativeToolTip": "UnitTest\\UnitTest_Generated.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAA1wD4AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswEoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T09:39:10.234Z",
+              "WhenOpened": "2025-10-13T06:16:28.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dotnet-tests.yml",
+              "DocumentMoniker": "C:\\Users\\DANG TRUNG\\source\\repos\\DemoUnitTest_ConsoleApp\\.github\\workflows\\dotnet-tests.yml",
+              "RelativeDocumentMoniker": ".github\\workflows\\dotnet-tests.yml",
+              "ToolTip": "C:\\Users\\DANG TRUNG\\source\\repos\\DemoUnitTest_ConsoleApp\\.github\\workflows\\dotnet-tests.yml",
+              "RelativeToolTip": ".github\\workflows\\dotnet-tests.yml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-10-08T09:43:48.874Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DemoUnitTest_ConsoleApp",
+              "Title": "DemoUnitTest_ConsoleApp.csproj",
               "DocumentMoniker": "C:\\Users\\DANG TRUNG\\source\\repos\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj",
               "RelativeDocumentMoniker": "DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj",
               "ToolTip": "C:\\Users\\DANG TRUNG\\source\\repos\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj",
@@ -64,8 +76,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UnitTest",
+              "DocumentIndex": 3,
+              "Title": "UnitTest.csproj",
               "DocumentMoniker": "C:\\Users\\DANG TRUNG\\source\\repos\\DemoUnitTest_ConsoleApp\\UnitTest\\UnitTest.csproj",
               "RelativeDocumentMoniker": "UnitTest\\UnitTest.csproj",
               "ToolTip": "C:\\Users\\DANG TRUNG\\source\\repos\\DemoUnitTest_ConsoleApp\\UnitTest\\UnitTest.csproj",
@@ -73,19 +85,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-10-08T08:58:17.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DANG TRUNG\\source\\repos\\DemoUnitTest_ConsoleApp\\UnitTest\\Program.cs",
-              "RelativeDocumentMoniker": "UnitTest\\Program.cs",
-              "ToolTip": "C:\\Users\\DANG TRUNG\\source\\repos\\DemoUnitTest_ConsoleApp\\UnitTest\\Program.cs",
-              "RelativeToolTip": "UnitTest\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T08:58:07.803Z",
               "EditorCaption": ""
             },
             {
@@ -109,7 +108,7 @@
               "RelativeDocumentMoniker": "DemoUnitTest_ConsoleApp\\Program.cs",
               "ToolTip": "C:\\Users\\DANG TRUNG\\source\\repos\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp\\Program.cs",
               "RelativeToolTip": "DemoUnitTest_ConsoleApp\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCUAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwDcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T08:57:34.337Z",
               "EditorCaption": ""
