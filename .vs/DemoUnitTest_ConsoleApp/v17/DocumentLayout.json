@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\DANG TRUNG\\source\\repos\\DemoUnitTest_ConsoleApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{235A5800-9135-499D-9513-325B1743EE5B}|DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj|c:\\users\\dang trung\\source\\repos\\demounittest_consoleapp\\demounittest_consoleapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{235A5800-9135-499D-9513-325B1743EE5B}|DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj|solutionrelative:demounittest_consoleapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{16D2C1CF-2B99-4CA5-B3A7-A0B4F8B0F6CC}|UnitTest\\UnitTest.csproj|c:\\users\\dang trung\\source\\repos\\demounittest_consoleapp\\unittest\\unittest_generated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16D2C1CF-2B99-4CA5-B3A7-A0B4F8B0F6CC}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\unittest_generated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{235A5800-9135-499D-9513-325B1743EE5B}|DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj|c:\\users\\dang trung\\source\\repos\\demounittest_consoleapp\\demounittest_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{235A5800-9135-499D-9513-325B1743EE5B}|DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj|solutionrelative:demounittest_consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{235A5800-9135-499D-9513-325B1743EE5B}|DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj|c:\\users\\dang trung\\source\\repos\\demounittest_consoleapp\\demounittest_consoleapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{235A5800-9135-499D-9513-325B1743EE5B}|DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj|solutionrelative:demounittest_consoleapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16D2C1CF-2B99-4CA5-B3A7-A0B4F8B0F6CC}|UnitTest\\UnitTest.csproj|c:\\users\\dang trung\\source\\repos\\demounittest_consoleapp\\unittest\\unittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UnitTest_Generated.cs",
               "DocumentMoniker": "C:\\Users\\DANG TRUNG\\source\\repos\\DemoUnitTest_ConsoleApp\\UnitTest\\UnitTest_Generated.cs",
               "RelativeDocumentMoniker": "UnitTest\\UnitTest_Generated.cs",
               "ToolTip": "C:\\Users\\DANG TRUNG\\source\\repos\\DemoUnitTest_ConsoleApp\\UnitTest\\UnitTest_Generated.cs",
               "RelativeToolTip": "UnitTest\\UnitTest_Generated.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAswEoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAA7wEoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-13T06:16:28.15Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-08T09:03:04.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T09:03:04.563Z"
             },
             {
               "$type": "Document",
@@ -84,25 +83,24 @@
               "RelativeToolTip": "UnitTest\\UnitTest.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-08T08:58:17.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T08:58:17.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Calculator.cs",
               "DocumentMoniker": "C:\\Users\\DANG TRUNG\\source\\repos\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp\\Calculator.cs",
               "RelativeDocumentMoniker": "DemoUnitTest_ConsoleApp\\Calculator.cs",
               "ToolTip": "C:\\Users\\DANG TRUNG\\source\\repos\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp\\Calculator.cs",
               "RelativeToolTip": "DemoUnitTest_ConsoleApp\\Calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T08:57:45.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DANG TRUNG\\source\\repos\\DemoUnitTest_ConsoleApp\\DemoUnitTest_ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "DemoUnitTest_ConsoleApp\\Program.cs",
@@ -110,8 +108,7 @@
               "RelativeToolTip": "DemoUnitTest_ConsoleApp\\Program.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAgwDcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T08:57:34.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T08:57:34.337Z"
             }
           ]
         }
